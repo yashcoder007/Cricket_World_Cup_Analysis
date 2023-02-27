@@ -1,5 +1,5 @@
 # Cricket_World_Cup_Analysis
 
-The link for Power BI dashboard: (link)https://app.powerbi.com/view?r=eyJrIjoiNjFkYzBmMTQtN2Q5OC00NWVhLWE0MmYtYzA1ODdiOGM0ZjQ4IiwidCI6ImQ4ZmJkNWI4LTEzNTYtNDRmZC1hNjFlLWNmZjZmOTYzNzA1OSJ9
+The link for Power BI dashboard: https://app.powerbi.com/view?r=eyJrIjoiNjFkYzBmMTQtN2Q5OC00NWVhLWE0MmYtYzA1ODdiOGM0ZjQ4IiwidCI6ImQ4ZmJkNWI4LTEzNTYtNDRmZC1hNjFlLWNmZjZmOTYzNzA1OSJ9
 
 The link for the selecting the 11 players: https://app.powerbi.com/view?r=eyJrIjoiMzQxNjNjNTktMGE5OC00MGIyLThmODMtYWRkNDRkZmM1ZTQ4IiwidCI6ImQ4ZmJkNWI4LTEzNTYtNDRmZC1hNjFlLWNmZjZmOTYzNzA1OSJ9
